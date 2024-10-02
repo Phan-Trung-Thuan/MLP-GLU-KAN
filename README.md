@@ -1,5 +1,5 @@
 # MLP-GLU-KAN
-This project is an experiment comparation between MLP, GLU and KAN on classification tasks
+This project is an experiment comparation between MLP, GLU and KAN on serveral tasks (most are tabular data)
 ### Tasks:
 * Emotion classification from image (dataset: https://github.com/AMAAI-Lab/Video2Music)
 * Heart disease prediction (dataset: https://www.kaggle.com/datasets/johnsmith88/heart-disease-dataset)
